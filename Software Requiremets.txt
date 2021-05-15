@@ -1,0 +1,8 @@
+Programming Language--
+    -> Front end: HTML,CSS,Bootstrap
+    -> Back end: Mysql,PHP,Javascript(Date picker)
+
+Local Server: XAMPP
+Web Server: Apache
+Editor : Visual Studio Code
+Web Browser: Google chrome,firefox or any compatible browser 

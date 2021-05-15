@@ -1,0 +1,122 @@
+
+body {
+    font-family: "Rubik", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+  }
+
+/*-----for border----*/
+/*--- for label of first and last name---*/
+
+#lname{
+    margin-top:5px;
+}
+     
+#fname{
+    margin-top:5px;
+}
+
+#dob{
+    margin-top:5px;
+    padding-left: 18px;
+}
+/*---for heading-----*/
+.heading{
+    text-decoration:bold;
+    text-align : center;
+    font-size:30px;
+    color:#F96;
+    padding-top:10px;
+}
+/*-------for email----------*/
+ /*------label----*/
+#email{
+     margin-top: 5px;
+}
+/*-----------for Password--------*/
+    /*-------label-----*/
+.mail, .firstname, .pass, .dob, .gender{
+    color: white;
+    margin: 0;
+    margin-top: 10px;
+}
+
+#password{
+margin-top: 6px;
+}
+/*------------for phone Number--------*/
+     /*----------label--------*/
+.pno{
+    font-size: 18px;
+    margin-left: -13px;
+    margin-top: 10px;
+    color: #ff9;
+   
+}
+
+    /*---------- for Input type--------*/
+.col-xs-4.male{
+    color: white;
+    font-size: 13px;
+    margin-top: 9px;
+    padding-bottom: 16px;
+    padding-left: 40px;
+}
+.col-xs-4.female {
+    color: white;
+    font-size: 13px;
+    margin-top: 9px;
+    padding-bottom: 16px;
+    padding-right: 95px;
+    padding-left: 40px;
+}	
+/*------------For submit button---------
+.sbutton{
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    background-color: #080808;
+    width: 32%;
+    margin-left: 41%;
+    margin-top: 16px;
+    box-shadow: 0px 2px 2px 0px white;
+        
+  }
+.btn.btn-warning:hover {
+   box-shadow: 2px 1px 2px 3px #99ccff;
+   background:#5900a6;
+   color:#fff;
+   transition: background-color 1.15s ease-in-out,border-color 1.15s ease-in-out,box-shadow 1.15s ease-in-out;
+   
+} */
+.sbutton{
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+    }
+    
+.btn.btn-warning:hover{
+    color: black;
+    background-color: white;
+    }	
+
+.col-xs-4{
+    text-align: left;
+    padding-right: 20px;
+}
+.col-xs-8{
+    text-align: left;
+    padding-left: 55px;
+}
+
+.col-xsp-8{
+    text-align: left;
+    padding-left: 0px;
+}
+
+.card{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 50%;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
